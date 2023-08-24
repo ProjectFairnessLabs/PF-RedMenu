@@ -1,8 +1,8 @@
-name 'RedMenu'
+name 'PF-RedMenu'
 description 'Trainer / Menu created for the RedM community, useful for lots of things.'
-author 'Vespura'
-url 'https://github.com/tomgrobbe/redmenu/'
-version 'v1.0.0'
+author 'PF Team/kibook/Vespura'
+url 'https://github.com/ProjectFairnessLabs/PF-RedMenu'
+version 'v0.0.1'
 
 -- Actual resource info setup stuff.
 fx_version 'adamant' -- I like this version
